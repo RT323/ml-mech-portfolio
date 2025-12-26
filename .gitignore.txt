@@ -1,0 +1,18 @@
+# Ignore data files
+projects/**/data/raw/*
+projects/**/data/processed/*
+
+# Keep folder structure
+!projects/**/data/raw/.gitkeep
+!projects/**/data/processed/.gitkeep
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
