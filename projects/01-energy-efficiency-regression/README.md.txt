@@ -40,6 +40,11 @@ jupyter notebook
 
 3. Open the notebook in `notebooks/`
 
+## Project Summary
+- Built an end-to-end ML pipeline for predicting building heating load.
+- Evaluated linear vs nonlinear models using cross-validation.
+- Demonstrated bias–variance tradeoffs and principled model selection.
+
 ## Future Work
 - Separate modeling for cooling load
 - Additional feature engineering
