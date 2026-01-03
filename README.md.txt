@@ -10,7 +10,7 @@ Projects:
 Predicting heating and cooling load of buildings using supervised machine learning models.
 
 - Folder: `projects/01-energy-efficiency-regression`
-- Status: In progress
+- Status: Completed
 
 Tools & Skills:
 - Python
